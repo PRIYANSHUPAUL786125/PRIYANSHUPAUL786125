@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**PRIYANSHUPAUL786125/PRIYANSHUPAUL786125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack & Tools
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,git,github)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 LeetCode Metrics
+<p align="left">
+  <img src="https://leetcode-stats-card.herokuapp.com/?username=YOUR_LEETCODE_USERNAME&theme=dark" alt="LeetCode Stats" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" height="160" />
+</p>
