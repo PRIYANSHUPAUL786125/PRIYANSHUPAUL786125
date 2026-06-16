@@ -7,7 +7,7 @@
 
 ### 🎯 LeetCode Metrics
 <p align="left">
-  <img src="https://leetcode-stats-card.herokuapp.com/?username=YOUR_LEETCODE_USERNAME&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats-card.herokuapp.com/?username=PRIYANSHUPAUL786125&theme=dark" alt="LeetCode Stats" />
 </p>
 
 ---
